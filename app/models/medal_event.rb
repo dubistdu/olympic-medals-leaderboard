@@ -1,0 +1,2 @@
+class MedalEvent < ApplicationRecord
+end
